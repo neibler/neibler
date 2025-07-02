@@ -1,16 +1,34 @@
-## Hi there 👋
+# 😎 Hi Nice to see you
 
-<!--
-**neibler/neibler** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+welcome to my page!
+I'm hyung joon jo, a passionate developer based in Seoul, South Korea currently learning and building cool things on GitHub!
 
-Here are some ideas to get you started:
+### Things I code with
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p>
+  <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=white" />
+  <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white" />
+  <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=java&logoColor=white" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" />
+</p>
+
+## GitHub Stats
+![Neibler's GitHub stats](https://github-readme-stats.vercel.app/api?username=neibler&show_icons=true&theme=radical)
+
+### 🧑‍💻 A little more about me...
+```c
+#include <stdio.h>
+
+int main() {
+    char* alias[] = {"Neibler", "JO"};
+    char* affiliation = "Sogang University";
+    char* languages[] = {"C", "C++", "Java", "HTML", "CSS", "MySQL"};
+    char* tools[] = {"Git", "VS Code", "GCC", "GitHub"};
+    char* learning[] = {"Spring"};
+    char* funFact = "I'm currently building up my GitHub profile step by step!";
+   return 0;
+}
+
