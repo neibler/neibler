@@ -15,8 +15,8 @@ I'm hyung joon jo, a passionate developer based in Seoul, South Korea currently 
   <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" />
 </p>
 
-## GitHub Stats
-![Neibler's GitHub stats](https://github-readme-stats.vercel.app/api?username=neibler&show_icons=true&theme=radical)
+## Baekjoon Online Judge Tier
+[![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=chj7895)](https://solved.ac/chj7895)
 
 ### 🧑‍💻 A little more about me...
 ```c
@@ -25,8 +25,8 @@ I'm hyung joon jo, a passionate developer based in Seoul, South Korea currently 
 int main() {
     char* alias[] = {"Neibler", "JO"};
     char* affiliation = "Sogang University";
-    char* languages[] = {"C", "C++", "Java", "HTML", "CSS", "MySQL"};
-    char* tools[] = {"Git", "VS Code", "GCC", "GitHub"};
+    char* languages[] = {"C", "C++", "Java", "HTML", "CSS", "SQL"};
+    char* tools[] = {"Git", "VS Code", "GCC", "GitHub", "Linux", "Eclipse", "MySQL"};
     char* learning[] = {"Spring"};
     char* funFact = "I'm currently building up my GitHub profile step by step!";
    return 0;
